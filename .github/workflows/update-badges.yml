@@ -2,6 +2,7 @@ name: Update badges
 
 on:
   schedule:
+    # Runs at 0am UTC every day
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -19,5 +20,6 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: arnab-seb
+          NUMBER_LAST_BADGES: 0  # Set to 0 to show all badges
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
