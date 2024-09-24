@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:badges-->
 [![Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](http://www.credly.com/badges/dcdbc05c-5f92-4e06-9b63-b4e78e3bfa3f "Introduction to Data Science")
-[![Hadoop Foundations - Level 1](https://images.credly.com/size/110x110/images/4e5341a0-031a-477d-a3c6-7a641e79dc2c/Hadoop_Data_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/13590e48-a414-4fbe-bd58-013b1bc037dd "Hadoop Foundations - Level 1")
+[![Hadoop Foundations - Level 1](https://images.credly.com/size/110x110/images/1e55ec7d-b57d-4ecf-92d4-d3b7887977ad/blob)](http://www.credly.com/badges/13590e48-a414-4fbe-bd58-013b1bc037dd "Hadoop Foundations - Level 1")
 [![Python Essentials 2](https://images.credly.com/size/110x110/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png)](http://www.credly.com/badges/26c520ac-a1e9-42a9-a9eb-ce06cd2b3df9 "Python Essentials 2")
 [![Generative AI Overview for Project Managers](https://images.credly.com/size/110x110/images/05de6fa7-8633-437c-80b5-7ee73779a87f/image.png)](http://www.credly.com/badges/b9b64996-c527-4b73-bb7b-7c6e46d5a500 "Generative AI Overview for Project Managers")
 [![Google Cloud Data Analytics Certificate](https://images.credly.com/size/110x110/images/f53c1eb6-d93d-4b9e-ae34-922046f6b15c/image.png)](http://www.credly.com/badges/58d30135-bd07-4954-85c3-d916668dc5e9 "Google Cloud Data Analytics Certificate")
