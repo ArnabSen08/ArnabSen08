@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge](https://images.credly.com/size/110x110/images/86a3283f-3e35-494f-82da-3fb3e89ba223/image.png)](http://www.credly.com/badges/feb0820b-ac58-4d35-a56b-47e0d6c85dfb "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge")
 [![Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](http://www.credly.com/badges/dcdbc05c-5f92-4e06-9b63-b4e78e3bfa3f "Introduction to Data Science")
 [![Hadoop Foundations - Level 1](https://images.credly.com/size/110x110/images/1e55ec7d-b57d-4ecf-92d4-d3b7887977ad/blob)](http://www.credly.com/badges/13590e48-a414-4fbe-bd58-013b1bc037dd "Hadoop Foundations - Level 1")
 [![Python Essentials 2](https://images.credly.com/size/110x110/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png)](http://www.credly.com/badges/26c520ac-a1e9-42a9-a9eb-ce06cd2b3df9 "Python Essentials 2")
@@ -63,6 +64,5 @@ Here are some ideas to get you started:
 [![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/110x110/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](http://www.credly.com/badges/0d8fc2e7-25d3-422e-ba6d-ee7a224b76bc "Implement Load Balancing on Compute Engine Skill Badge")
 [![Get Started with Cloud Storage Skill Badge](https://images.credly.com/size/110x110/images/8fae0693-0a1a-4c15-b3b6-10b4104d0e30/image.png)](http://www.credly.com/badges/90586231-78d1-4c7b-8819-7384f1e9d148 "Get Started with Cloud Storage Skill Badge")
 [![Secure BigLake Data Skill Badge](https://images.credly.com/size/110x110/images/f4037855-1b1d-4338-985f-fec235b152a6/image.png)](http://www.credly.com/badges/45fbcd1c-4f64-46ca-ade7-6132593bb39d "Secure BigLake Data Skill Badge")
-[![Protect Sensitive Data with Data Loss Prevention Skill Badge](https://images.credly.com/size/110x110/images/81b8d708-19b5-4381-8ee1-576dcb20f536/image.png)](http://www.credly.com/badges/0e793404-4316-4f6b-8cf1-6fd91f697273 "Protect Sensitive Data with Data Loss Prevention Skill Badge")
 <!--END_SECTION:badges-->
 
