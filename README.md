@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![Credly Top Badge Earner of 2024](https://images.credly.com/size/110x110/images/fab17a1a-d69a-43b3-a619-14c85f5afb90/blob)](http://www.credly.com/badges/62457793-8062-4ac5-8445-434f3703c38f "Credly Top Badge Earner of 2024")
+[![Credly Top Legacy Badge Earner](https://images.credly.com/size/110x110/images/3cfeed0f-fbfe-456e-ae16-d2c866fb06e7/blob)](http://www.credly.com/badges/eb6ed9a2-1136-4e8c-9997-a8d3c6424ee4 "Credly Top Legacy Badge Earner")
 [![Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge](https://images.credly.com/size/110x110/images/86a3283f-3e35-494f-82da-3fb3e89ba223/image.png)](http://www.credly.com/badges/feb0820b-ac58-4d35-a56b-47e0d6c85dfb "Inspect Rich Documents with Gemini Multimodality and Multimodal RAG Skill Badge")
 [![Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](http://www.credly.com/badges/dcdbc05c-5f92-4e06-9b63-b4e78e3bfa3f "Introduction to Data Science")
 [![Hadoop Foundations - Level 1](https://images.credly.com/size/110x110/images/1e55ec7d-b57d-4ecf-92d4-d3b7887977ad/blob)](http://www.credly.com/badges/13590e48-a414-4fbe-bd58-013b1bc037dd "Hadoop Foundations - Level 1")
@@ -62,7 +64,5 @@ Here are some ideas to get you started:
 [![Store, Process, and Manage Data on Google Cloud - Command Line Skill Badge](https://images.credly.com/size/110x110/images/42242faf-e2ec-4c2c-aa57-8c27b190dd83/image.png)](http://www.credly.com/badges/448b48a4-c619-4a80-8cd8-4b7a66cc9f62 "Store, Process, and Manage Data on Google Cloud - Command Line Skill Badge")
 [![Use APIs to Work with Cloud Storage Skill Badge](https://images.credly.com/size/110x110/images/0c6a247d-8bbd-407b-8f83-dd863d251587/image.png)](http://www.credly.com/badges/75657764-0ead-4914-9962-a8baad8d9366 "Use APIs to Work with Cloud Storage Skill Badge")
 [![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/110x110/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](http://www.credly.com/badges/0d8fc2e7-25d3-422e-ba6d-ee7a224b76bc "Implement Load Balancing on Compute Engine Skill Badge")
-[![Get Started with Cloud Storage Skill Badge](https://images.credly.com/size/110x110/images/8fae0693-0a1a-4c15-b3b6-10b4104d0e30/image.png)](http://www.credly.com/badges/90586231-78d1-4c7b-8819-7384f1e9d148 "Get Started with Cloud Storage Skill Badge")
-[![Secure BigLake Data Skill Badge](https://images.credly.com/size/110x110/images/f4037855-1b1d-4338-985f-fec235b152a6/image.png)](http://www.credly.com/badges/45fbcd1c-4f64-46ca-ade7-6132593bb39d "Secure BigLake Data Skill Badge")
 <!--END_SECTION:badges-->
 
