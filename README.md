@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![Monitor Environments with Google Cloud Managed Service for Prometheus Skill Badge](https://images.credly.com/size/110x110/images/4199c028-1dd7-4802-a4fc-fe043d705b31/blob)](http://www.credly.com/badges/329c632a-adc4-4276-a0ec-40cdbb1bb3b7 "Monitor Environments with Google Cloud Managed Service for Prometheus Skill Badge")
 [![Build Real World AI Applications with Gemini and Imagen Skill Badge](https://images.credly.com/size/110x110/images/b7898c75-72ce-4304-b227-0aa7563aaca9/blob)](http://www.credly.com/badges/10a9118b-60ef-4ba1-b2bc-9a7eaf3851d4 "Build Real World AI Applications with Gemini and Imagen Skill Badge")
 [![Credly Top Badge Earner of 2024](https://images.credly.com/size/110x110/images/fab17a1a-d69a-43b3-a619-14c85f5afb90/blob)](http://www.credly.com/badges/62457793-8062-4ac5-8445-434f3703c38f "Credly Top Badge Earner of 2024")
 [![Credly Top Legacy Badge Earner](https://images.credly.com/size/110x110/images/3cfeed0f-fbfe-456e-ae16-d2c866fb06e7/blob)](http://www.credly.com/badges/eb6ed9a2-1136-4e8c-9997-a8d3c6424ee4 "Credly Top Legacy Badge Earner")
@@ -63,6 +64,5 @@ Here are some ideas to get you started:
 [![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](http://www.credly.com/badges/6f4c20b7-79c0-4fed-b612-8eff5ec2a8ff "Build a Secure Google Cloud Network Skill Badge")
 [![Monitor and Manage Google Cloud Resources Skill Badge](https://images.credly.com/size/110x110/images/c07b49a7-c295-4e2a-9557-09c22032e3ae/image.png)](http://www.credly.com/badges/c253cf72-9e58-44b1-917c-f1c06d555b30 "Monitor and Manage Google Cloud Resources Skill Badge")
 [![Store, Process, and Manage Data on Google Cloud - Command Line Skill Badge](https://images.credly.com/size/110x110/images/42242faf-e2ec-4c2c-aa57-8c27b190dd83/image.png)](http://www.credly.com/badges/448b48a4-c619-4a80-8cd8-4b7a66cc9f62 "Store, Process, and Manage Data on Google Cloud - Command Line Skill Badge")
-[![Use APIs to Work with Cloud Storage Skill Badge](https://images.credly.com/size/110x110/images/0c6a247d-8bbd-407b-8f83-dd863d251587/image.png)](http://www.credly.com/badges/75657764-0ead-4914-9962-a8baad8d9366 "Use APIs to Work with Cloud Storage Skill Badge")
 <!--END_SECTION:badges-->
 
