@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![Generative AI: Prompt Engineering](https://images.credly.com/size/110x110/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png)](http://www.credly.com/badges/d662df0d-eeb1-4aa3-aa77-ed04b1e9e8e5 "Generative AI: Prompt Engineering")
 [![LFS158: Introduction to Kubernetes](https://images.credly.com/size/110x110/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](http://www.credly.com/badges/78f0ddb2-623c-4a89-a1fb-88de0fa58d48 "LFS158: Introduction to Kubernetes")
 [![Prepare Data for Looker Dashboards and Reports](https://images.credly.com/size/110x110/images/4ed71434-c678-46b2-bd1c-93c96d3e7b90/blob)](http://www.credly.com/badges/ab01027f-1403-46d9-960a-f9b8e94eef68 "Prepare Data for Looker Dashboards and Reports")
 [![Monitor Environments with Google Cloud Managed Service for Prometheus Skill Badge](https://images.credly.com/size/110x110/images/4199c028-1dd7-4802-a4fc-fe043d705b31/blob)](http://www.credly.com/badges/329c632a-adc4-4276-a0ec-40cdbb1bb3b7 "Monitor Environments with Google Cloud Managed Service for Prometheus Skill Badge")
@@ -63,6 +64,5 @@ Here are some ideas to get you started:
 [![Implement Cloud Security Fundamentals on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/f1dbea96-0ef4-4857-bb85-3d208a82de10/image.png)](http://www.credly.com/badges/3c1ee261-f6f5-4e93-8e85-406eb068d25b "Implement Cloud Security Fundamentals on Google Cloud Skill Badge")
 [![Cloud Architecture: Design, Implement, and Manage Skill Badge](https://images.credly.com/size/110x110/images/746b172c-bdae-4bd9-b29b-eecfc9ad3577/image.png)](http://www.credly.com/badges/76a89d43-a54f-44db-8bcd-d104c3dc7d54 "Cloud Architecture: Design, Implement, and Manage Skill Badge")
 [![Develop Your Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/b126c61c-4781-4f03-9b2b-062963003abf/image.png)](http://www.credly.com/badges/cbfee3f9-716c-40b3-9e17-2890bd410618 "Develop Your Google Cloud Network Skill Badge")
-[![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](http://www.credly.com/badges/6f4c20b7-79c0-4fed-b612-8eff5ec2a8ff "Build a Secure Google Cloud Network Skill Badge")
 <!--END_SECTION:badges-->
 
