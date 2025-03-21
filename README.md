@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![Artificial Intelligence Essentials V2](https://images.credly.com/size/110x110/images/3e199561-bc4a-4621-9361-340fc43d997e/Coursera_20Artificial_20Intelligence_20Essentials_20V2.png)](http://www.credly.com/badges/29377551-8695-4124-a6e3-81a486b975ce "Artificial Intelligence Essentials V2")
+[![Generative AI Essentials](https://images.credly.com/size/110x110/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png)](http://www.credly.com/badges/807be8dd-96cb-43e7-824d-4c91ada00b7a "Generative AI Essentials")
+[![Generative AI for Customer Support Specialization](https://images.credly.com/size/110x110/images/ea9e6964-2d34-4d72-8d41-f1183180971c/Coursera_20Gen_20AI_20for_20Customer_20Support_20Specialization.png)](http://www.credly.com/badges/bc3c1e4f-abbe-433c-9986-d1d3b60c6c12 "Generative AI for Customer Support Specialization")
+[![Product-led Certification](https://images.credly.com/size/110x110/images/ab346726-94b6-49d6-8110-b2463664c40d/image.png)](http://www.credly.com/badges/8ad2b90e-acdf-4aca-8117-785ee2ffaf7e "Product-led Certification")
 [![Generative AI: Prompt Engineering](https://images.credly.com/size/110x110/images/7fd5a03e-823f-4449-af43-59afe528f4ee/image.png)](http://www.credly.com/badges/d662df0d-eeb1-4aa3-aa77-ed04b1e9e8e5 "Generative AI: Prompt Engineering")
 [![LFS158: Introduction to Kubernetes](https://images.credly.com/size/110x110/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob)](http://www.credly.com/badges/78f0ddb2-623c-4a89-a1fb-88de0fa58d48 "LFS158: Introduction to Kubernetes")
 [![Prepare Data for Looker Dashboards and Reports](https://images.credly.com/size/110x110/images/4ed71434-c678-46b2-bd1c-93c96d3e7b90/blob)](http://www.credly.com/badges/ab01027f-1403-46d9-960a-f9b8e94eef68 "Prepare Data for Looker Dashboards and Reports")
@@ -60,9 +64,5 @@ Here are some ideas to get you started:
 [![Engineer Data for Predictive Modeling with BigQuery ML Skill Badge](https://images.credly.com/size/110x110/images/6160e2c1-4a95-4f47-8c5b-f2dde7bb6a67/image.png)](http://www.credly.com/badges/fde463f6-7db0-458d-865e-05675727b573 "Engineer Data for Predictive Modeling with BigQuery ML Skill Badge")
 [![Create ML Models with BigQuery ML Skill Badge](https://images.credly.com/size/110x110/images/073a27aa-c3d6-44b5-875f-906191666d70/image.png)](http://www.credly.com/badges/2776d07c-da55-43d7-abfa-825520cb51d5 "Create ML Models with BigQuery ML Skill Badge")
 [![Get Started with Eventarc Skill Badge](https://images.credly.com/size/110x110/images/5aa8a83f-22d6-4aa2-9a65-f95290187ce3/image.png)](http://www.credly.com/badges/be4c7a47-1585-421a-ae27-62b0812d002c "Get Started with Eventarc Skill Badge")
-[![Integrate BigQuery Data and Google Workspace using Apps Script Skill Badge](https://images.credly.com/size/110x110/images/02190f6d-01c5-457d-9ac0-b7fe4f31c7e6/image.png)](http://www.credly.com/badges/a1091dce-1ac8-4c52-b6b1-b1cc3cfdf723 "Integrate BigQuery Data and Google Workspace using Apps Script Skill Badge")
-[![Implement Cloud Security Fundamentals on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/f1dbea96-0ef4-4857-bb85-3d208a82de10/image.png)](http://www.credly.com/badges/3c1ee261-f6f5-4e93-8e85-406eb068d25b "Implement Cloud Security Fundamentals on Google Cloud Skill Badge")
-[![Cloud Architecture: Design, Implement, and Manage Skill Badge](https://images.credly.com/size/110x110/images/746b172c-bdae-4bd9-b29b-eecfc9ad3577/image.png)](http://www.credly.com/badges/76a89d43-a54f-44db-8bcd-d104c3dc7d54 "Cloud Architecture: Design, Implement, and Manage Skill Badge")
-[![Develop Your Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/b126c61c-4781-4f03-9b2b-062963003abf/image.png)](http://www.credly.com/badges/cbfee3f9-716c-40b3-9e17-2890bd410618 "Develop Your Google Cloud Network Skill Badge")
 <!--END_SECTION:badges-->
 
