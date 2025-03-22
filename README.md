@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![Product Analytics Certification](https://images.credly.com/size/110x110/images/83691e1f-fddf-45ce-b6a2-a28529838223/image.png)](http://www.credly.com/badges/14a96f26-9719-4be5-9233-5b8574ae3b38 "Product Analytics Certification")
+[![Product Discovery Certification](https://images.credly.com/size/110x110/images/c22b8e26-21aa-41e1-8aa1-d7574efcda96/blob)](http://www.credly.com/badges/d42b8b43-a6cb-4484-b75d-78a6535c8506 "Product Discovery Certification")
 [![Artificial Intelligence Essentials V2](https://images.credly.com/size/110x110/images/3e199561-bc4a-4621-9361-340fc43d997e/Coursera_20Artificial_20Intelligence_20Essentials_20V2.png)](http://www.credly.com/badges/29377551-8695-4124-a6e3-81a486b975ce "Artificial Intelligence Essentials V2")
 [![Generative AI Essentials](https://images.credly.com/size/110x110/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png)](http://www.credly.com/badges/807be8dd-96cb-43e7-824d-4c91ada00b7a "Generative AI Essentials")
 [![Generative AI for Customer Support Specialization](https://images.credly.com/size/110x110/images/ea9e6964-2d34-4d72-8d41-f1183180971c/Coursera_20Gen_20AI_20for_20Customer_20Support_20Specialization.png)](http://www.credly.com/badges/bc3c1e4f-abbe-433c-9986-d1d3b60c6c12 "Generative AI for Customer Support Specialization")
@@ -62,7 +64,5 @@ Here are some ideas to get you started:
 [![Develop with Apps Script and AppSheet Skill Badge](https://images.credly.com/size/110x110/images/c99de4cf-a2fe-4c34-9b38-43ea165ea0f4/image.png)](http://www.credly.com/badges/59a08be0-6397-4620-a209-dcdf3bf1cd8a "Develop with Apps Script and AppSheet Skill Badge")
 [![Build a Data Warehouse with BigQuery Skill Badge](https://images.credly.com/size/110x110/images/8ab21779-042f-4616-a6ab-fd0d62648b24/image.png)](http://www.credly.com/badges/2c7fc419-0d57-453e-8be9-7fc8bdbb7d62 "Build a Data Warehouse with BigQuery Skill Badge")
 [![Engineer Data for Predictive Modeling with BigQuery ML Skill Badge](https://images.credly.com/size/110x110/images/6160e2c1-4a95-4f47-8c5b-f2dde7bb6a67/image.png)](http://www.credly.com/badges/fde463f6-7db0-458d-865e-05675727b573 "Engineer Data for Predictive Modeling with BigQuery ML Skill Badge")
-[![Create ML Models with BigQuery ML Skill Badge](https://images.credly.com/size/110x110/images/073a27aa-c3d6-44b5-875f-906191666d70/image.png)](http://www.credly.com/badges/2776d07c-da55-43d7-abfa-825520cb51d5 "Create ML Models with BigQuery ML Skill Badge")
-[![Get Started with Eventarc Skill Badge](https://images.credly.com/size/110x110/images/5aa8a83f-22d6-4aa2-9a65-f95290187ce3/image.png)](http://www.credly.com/badges/be4c7a47-1585-421a-ae27-62b0812d002c "Get Started with Eventarc Skill Badge")
 <!--END_SECTION:badges-->
 
