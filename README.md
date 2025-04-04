@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![LFS157: Introduction to Serverless on Kubernetes](https://images.credly.com/size/110x110/images/3cdbeb68-f2c2-43e9-ad18-c97cb719c3b0/blob)](http://www.credly.com/badges/424f5adf-f60e-4770-ad5b-f36560eca18c "LFS157: Introduction to Serverless on Kubernetes")
 [![Product Analytics Certification](https://images.credly.com/size/110x110/images/83691e1f-fddf-45ce-b6a2-a28529838223/image.png)](http://www.credly.com/badges/14a96f26-9719-4be5-9233-5b8574ae3b38 "Product Analytics Certification")
 [![Product Discovery Certification](https://images.credly.com/size/110x110/images/c22b8e26-21aa-41e1-8aa1-d7574efcda96/blob)](http://www.credly.com/badges/d42b8b43-a6cb-4484-b75d-78a6535c8506 "Product Discovery Certification")
 [![Artificial Intelligence Essentials V2](https://images.credly.com/size/110x110/images/3e199561-bc4a-4621-9361-340fc43d997e/Coursera_20Artificial_20Intelligence_20Essentials_20V2.png)](http://www.credly.com/badges/29377551-8695-4124-a6e3-81a486b975ce "Artificial Intelligence Essentials V2")
@@ -63,6 +64,5 @@ Here are some ideas to get you started:
 [![Get Started with Pub/Sub Skill Badge](https://images.credly.com/size/110x110/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png)](http://www.credly.com/badges/9ea16e39-454d-41b5-b39f-0c1c0d6d66b7 "Get Started with Pub/Sub Skill Badge")
 [![Develop with Apps Script and AppSheet Skill Badge](https://images.credly.com/size/110x110/images/c99de4cf-a2fe-4c34-9b38-43ea165ea0f4/image.png)](http://www.credly.com/badges/59a08be0-6397-4620-a209-dcdf3bf1cd8a "Develop with Apps Script and AppSheet Skill Badge")
 [![Build a Data Warehouse with BigQuery Skill Badge](https://images.credly.com/size/110x110/images/8ab21779-042f-4616-a6ab-fd0d62648b24/image.png)](http://www.credly.com/badges/2c7fc419-0d57-453e-8be9-7fc8bdbb7d62 "Build a Data Warehouse with BigQuery Skill Badge")
-[![Engineer Data for Predictive Modeling with BigQuery ML Skill Badge](https://images.credly.com/size/110x110/images/6160e2c1-4a95-4f47-8c5b-f2dde7bb6a67/image.png)](http://www.credly.com/badges/fde463f6-7db0-458d-865e-05675727b573 "Engineer Data for Predictive Modeling with BigQuery ML Skill Badge")
 <!--END_SECTION:badges-->
 
