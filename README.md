@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+[![IBM Z Day 2025 SE - Security](https://images.credly.com/size/110x110/images/2343a488-3ea1-4107-a020-9a09f2902a31/IBM_20Z_20Day_20SE_20Security.png)](http://www.credly.com/badges/62d1b453-aa48-41e4-b528-9f28a68393e6 "IBM Z Day 2025 SE - Security")
 [![IBM Z Day 2025 SE - AI & Data](https://images.credly.com/size/110x110/images/abeddce9-21fc-4db5-a76f-2aba2fec4e76/IBM_20Z_20Day_20SE_20AI_20and_20Data.png)](http://www.credly.com/badges/e7840a92-bcec-4d79-bb74-d6e221a9ca64 "IBM Z Day 2025 SE - AI & Data")
 [![Super Certified](https://images.credly.com/size/110x110/images/6dcf7cfa-ae34-454d-8219-ba84b88afa94/image.png)](http://www.credly.com/badges/53e82b90-454f-4db8-838c-1f8cd42ad5e5 "Super Certified")
 [![LFS157: Introduction to Serverless on Kubernetes](https://images.credly.com/size/110x110/images/3cdbeb68-f2c2-43e9-ad18-c97cb719c3b0/blob)](http://www.credly.com/badges/424f5adf-f60e-4770-ad5b-f36560eca18c "LFS157: Introduction to Serverless on Kubernetes")
@@ -63,6 +64,5 @@ Here are some ideas to get you started:
 [![Implement DevOps Workflows in Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/7514501c-47e3-4766-a833-2f45eacdf615/image.png)](http://www.credly.com/badges/0dad924d-4562-4b87-b80c-f4113393997b "Implement DevOps Workflows in Google Cloud Skill Badge")
 [![Develop Serverless Applications on Cloud Run Skill Badge](https://images.credly.com/size/110x110/images/71b9b0df-64f1-4c0a-867f-942e2a5a5a14/image.png)](http://www.credly.com/badges/42904b78-fdf2-478b-82aa-2f7f0b1035de "Develop Serverless Applications on Cloud Run Skill Badge")
 [![Build Infrastructure with Terraform on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/b18154fb-9bd3-47e5-a6f1-554be512947d/image.png)](http://www.credly.com/badges/089ea311-5427-452f-8438-a710aabf853a "Build Infrastructure with Terraform on Google Cloud Skill Badge")
-[![Get Started with Pub/Sub Skill Badge](https://images.credly.com/size/110x110/images/4b9b3bd9-02b8-4243-8def-893557125497/image.png)](http://www.credly.com/badges/9ea16e39-454d-41b5-b39f-0c1c0d6d66b7 "Get Started with Pub/Sub Skill Badge")
 <!--END_SECTION:badges-->
 
