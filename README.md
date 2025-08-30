@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/d15134aa-ec8a-404e-a8d7-dee2fe80f435" title="LFS148: Getting Started with OpenTelemetry"><img src="https://images.credly.com/size/80x80/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/305e34b6-83bf-47ae-8f4d-5795fb49bbef" title="Applied Data Science Capstone"><img src="https://images.credly.com/size/80x80/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" alt="Applied Data Science Capstone" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4eaad8ac-4e31-48cd-a9fd-65bdcc4c2662" title="Build an AI Agent"><img src="https://images.credly.com/size/80x80/images/d8f30e8e-4c24-42e8-bb15-b106bb082614/BadgeEmblem_BuildAnAIAgent.png" alt="Build an AI Agent" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/35b5758c-efb4-4ceb-affc-ad60350bceab" title="Building AI Agents with MongoDB"><img src="https://images.credly.com/size/80x80/images/252ed95c-8043-44f5-ae1f-6f5a6cf313c4/blob" alt="Building AI Agents with MongoDB" width="80" height="80"></a>
@@ -63,6 +64,5 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/14a96f26-9719-4be5-9233-5b8574ae3b38" title="Product Analytics Certification"><img src="https://images.credly.com/size/80x80/images/83691e1f-fddf-45ce-b6a2-a28529838223/image.png" alt="Product Analytics Certification" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d42b8b43-a6cb-4484-b75d-78a6535c8506" title="Product Discovery Certification"><img src="https://images.credly.com/size/80x80/images/c22b8e26-21aa-41e1-8aa1-d7574efcda96/blob" alt="Product Discovery Certification" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/29377551-8695-4124-a6e3-81a486b975ce" title="Artificial Intelligence Essentials V2"><img src="https://images.credly.com/size/80x80/images/3e199561-bc4a-4621-9361-340fc43d997e/Coursera_20Artificial_20Intelligence_20Essentials_20V2.png" alt="Artificial Intelligence Essentials V2" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/807be8dd-96cb-43e7-824d-4c91ada00b7a" title="Generative AI Essentials"><img src="https://images.credly.com/size/80x80/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png" alt="Generative AI Essentials" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
