@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/fb3f1013-23e2-4445-b976-e1997c598cc4" title="Analyze and Reason on Multimodal Data with Gemini"><img src="https://images.credly.com/size/80x80/images/dab74a06-8898-4043-a682-8d02a6d05044/blob" alt="Analyze and Reason on Multimodal Data with Gemini" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/a715e03a-b38e-49b0-b8b3-f8b1a6ca774b" title="Enhance Gemini Model Capabilities"><img src="https://images.credly.com/size/80x80/images/9e6cd82e-c95d-4ffe-8190-32fdf032a4cb/blob" alt="Enhance Gemini Model Capabilities" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d15134aa-ec8a-404e-a8d7-dee2fe80f435" title="LFS148: Getting Started with OpenTelemetry"><img src="https://images.credly.com/size/80x80/images/a13653a5-3902-4eb9-96ca-790f6b535d4e/blob" alt="LFS148: Getting Started with OpenTelemetry" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/305e34b6-83bf-47ae-8f4d-5795fb49bbef" title="Applied Data Science Capstone"><img src="https://images.credly.com/size/80x80/images/169512d3-cef6-43e3-bec8-e6af2723a076/image.png" alt="Applied Data Science Capstone" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4eaad8ac-4e31-48cd-a9fd-65bdcc4c2662" title="Build an AI Agent"><img src="https://images.credly.com/size/80x80/images/d8f30e8e-4c24-42e8-bb15-b106bb082614/BadgeEmblem_BuildAnAIAgent.png" alt="Build an AI Agent" width="80" height="80"></a>
@@ -62,7 +64,5 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/53e82b90-454f-4db8-838c-1f8cd42ad5e5" title="Super Certified"><img src="https://images.credly.com/size/80x80/images/6dcf7cfa-ae34-454d-8219-ba84b88afa94/image.png" alt="Super Certified" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/424f5adf-f60e-4770-ad5b-f36560eca18c" title="LFS157: Introduction to Serverless on Kubernetes"><img src="https://images.credly.com/size/80x80/images/3cdbeb68-f2c2-43e9-ad18-c97cb719c3b0/blob" alt="LFS157: Introduction to Serverless on Kubernetes" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/14a96f26-9719-4be5-9233-5b8574ae3b38" title="Product Analytics Certification"><img src="https://images.credly.com/size/80x80/images/83691e1f-fddf-45ce-b6a2-a28529838223/image.png" alt="Product Analytics Certification" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/d42b8b43-a6cb-4484-b75d-78a6535c8506" title="Product Discovery Certification"><img src="https://images.credly.com/size/80x80/images/c22b8e26-21aa-41e1-8aa1-d7574efcda96/blob" alt="Product Discovery Certification" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/29377551-8695-4124-a6e3-81a486b975ce" title="Artificial Intelligence Essentials V2"><img src="https://images.credly.com/size/80x80/images/3e199561-bc4a-4621-9361-340fc43d997e/Coursera_20Artificial_20Intelligence_20Essentials_20V2.png" alt="Artificial Intelligence Essentials V2" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
