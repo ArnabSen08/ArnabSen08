@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/d234ae1a-1fe3-49d9-97c7-9e26c90bc2a4" title="Develop and Secure APIs with Apigee X Skill Badge"><img src="https://images.credly.com/size/80x80/images/d344fbbb-44df-4af6-b5c0-ae59588b9ebc/image.png" alt="Develop and Secure APIs with Apigee X Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/cf9937c6-5d67-4a0f-b9ba-4f2fbad15916" title="Accelerate Agentic AI -​ Skilled"><img src="https://images.credly.com/size/80x80/images/b00ac508-c225-4304-88a6-bf73bc8b0a52/blob" alt="Accelerate Agentic AI -​ Skilled" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ad7fccf4-c3d9-48e4-a4ff-9fff4912a7c2" title="Build a Data Mesh with Dataplex Skill Badge"><img src="https://images.credly.com/size/80x80/images/c4acff27-5baa-452f-a6b2-ab875da12dfd/image.png" alt="Build a Data Mesh with Dataplex Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/fb3f1013-23e2-4445-b976-e1997c598cc4" title="Analyze and Reason on Multimodal Data with Gemini"><img src="https://images.credly.com/size/80x80/images/dab74a06-8898-4043-a682-8d02a6d05044/blob" alt="Analyze and Reason on Multimodal Data with Gemini" width="80" height="80"></a>
@@ -63,6 +64,5 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/79a0df07-64ae-454d-9796-756098389ab0" title="Develop GenAI Apps with Gemini and Streamlit Skill Badge"><img src="https://images.credly.com/size/80x80/images/1dbef1bd-cdb0-40e1-bff4-8200448c3161/blob" alt="Develop GenAI Apps with Gemini and Streamlit Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/775e85c0-602c-4f78-886e-8de28577e44f" title="Explore Generative AI with the Vertex AI Gemini API Skill Badge"><img src="https://images.credly.com/size/80x80/images/9ecc031b-5f5a-418d-8397-1612c0f40fce/image.png" alt="Explore Generative AI with the Vertex AI Gemini API Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/2127bf1c-70ca-4ba7-b3e3-7dec79070f66" title="AI in the Cloud"><img src="https://images.credly.com/size/80x80/images/ed0b623e-8152-4a9b-8d09-0cc8a7ad72ad/image.png" alt="AI in the Cloud" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/e33f8049-614e-4322-91cd-672ed4f01479" title="Cloud DevOps"><img src="https://images.credly.com/size/80x80/images/f953f0f3-d130-4d6d-8d5d-62d8b24eee9b/image.png" alt="Cloud DevOps" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
