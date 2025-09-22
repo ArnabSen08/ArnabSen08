@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/d95adf73-4457-4a41-b5ed-577eb27e2791" title="LFS120: Conversational AI: Ensuring Compliance and Mitigating Risks"><img src="https://images.credly.com/size/80x80/images/9d8c577d-d242-4b2a-b64f-79dfdcf72ee8/blob" alt="LFS120: Conversational AI: Ensuring Compliance and Mitigating Risks" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/4805c7de-119b-4bbf-b026-0df3751e987f" title="LFS180: Introduction to DevSecOps for Managers"><img src="https://images.credly.com/size/80x80/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" alt="LFS180: Introduction to DevSecOps for Managers" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9ea7ec98-32e5-4a16-b209-3c246ff7bd3c" title="Deploy and adopt Microsoft 365 Copilot + Agents - Skilled"><img src="https://images.credly.com/size/80x80/images/10db3fd9-4b85-4d1d-92f1-9cf2784d71df/blob" alt="Deploy and adopt Microsoft 365 Copilot + Agents - Skilled" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f34b4ee1-511a-4996-9b38-743030b16313" title="Empower Azure AI: Partner Sales & GTM Accelerator Event Series-​ Skilled"><img src="https://images.credly.com/size/80x80/images/02614151-f469-4732-a1ea-4f3d01c4f9c5/blob" alt="Empower Azure AI: Partner Sales & GTM Accelerator Event Series-​ Skilled" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/862f7ca8-f3c5-43c0-81a3-a85f4c7666b3" title="Implement Microsoft Defender for Endpoint -​ Skilled"><img src="https://images.credly.com/size/80x80/images/0b2cdfdd-f33b-4756-9432-baaaa304e720/blob" alt="Implement Microsoft Defender for Endpoint -​ Skilled" width="80" height="80"></a>
@@ -62,7 +64,5 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/7544b34c-a240-4203-b468-9226a549cfe9" title="Google Agile Essentials"><img src="https://images.credly.com/size/80x80/images/513bc531-f582-4f2a-bf49-892c2a563899/image.png" alt="Google Agile Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d1d5f194-bbc9-4504-abee-e77c8c4fca42" title="Google AI Essentials"><img src="https://images.credly.com/size/80x80/images/4b2e5f74-10de-4587-8168-2cfbd8743b39/blob" alt="Google AI Essentials" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/61f3e364-a208-47a5-8a72-d2d174b45a8d" title="Google Prompting Essentials"><img src="https://images.credly.com/size/80x80/images/192e1b0b-886c-4afa-9943-b6723c4d1e26/blob" alt="Google Prompting Essentials" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/571dccac-2f48-486b-9cb5-f5e8c504f586" title="AI Professional Developer"><img src="https://images.credly.com/size/80x80/images/2f616b45-ff15-4bce-9257-dc96421db219/image.png" alt="AI Professional Developer" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/632b31d3-2fe7-434d-8029-5ff2d1512db0" title="Intel® Tiber™ Trust Authority"><img src="https://images.credly.com/size/80x80/images/f05ec4cc-f2f7-4eef-9be5-3d27f3552fa1/blob" alt="Intel® Tiber™ Trust Authority" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
