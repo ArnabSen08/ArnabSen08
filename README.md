@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/4914cea5-f050-420d-9215-53fe4d6e2fbb" title="Agentic AI Deal Ready - Proficient"><img src="https://images.credly.com/size/80x80/images/5e2004e8-aaa1-4d73-8995-138519749bc6/blob" alt="Agentic AI Deal Ready - Proficient" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/6df65a24-9b27-4083-98f4-9382cea64aac" title="Agentic AI Solution Architecture - Proficient"><img src="https://images.credly.com/size/80x80/images/ec28697d-40f1-4d0f-a8e2-5f6217dd0994/blob" alt="Agentic AI Solution Architecture - Proficient" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d95adf73-4457-4a41-b5ed-577eb27e2791" title="LFS120: Conversational AI: Ensuring Compliance and Mitigating Risks"><img src="https://images.credly.com/size/80x80/images/9d8c577d-d242-4b2a-b64f-79dfdcf72ee8/blob" alt="LFS120: Conversational AI: Ensuring Compliance and Mitigating Risks" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4805c7de-119b-4bbf-b026-0df3751e987f" title="LFS180: Introduction to DevSecOps for Managers"><img src="https://images.credly.com/size/80x80/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" alt="LFS180: Introduction to DevSecOps for Managers" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/13c0505a-cb79-46de-bf62-be77a6b5b87b" title="Database Engineer Professional Certificate(v.1)"><img src="https://images.credly.com/size/80x80/images/b6634fcc-a8d7-429d-bef7-c5319bcc3580/blob" alt="Database Engineer Professional Certificate(v.1)" width="80" height="80"></a>
@@ -62,7 +64,5 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/8de0c410-5e08-4873-8af9-b658cb4550f6" title="Build Google Cloud Infrastructure for AWS Professionals Skill Badge"><img src="https://images.credly.com/size/80x80/images/7a2bc677-846d-4b0b-85a3-b56e0a0f9452/image.png" alt="Build Google Cloud Infrastructure for AWS Professionals Skill Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/72a9d5a7-4fce-4124-b05a-2f3339f7fd09" title="Google Business Intelligence Certificate"><img src="https://images.credly.com/size/80x80/images/1c5d0bfa-f87b-46bd-a515-3b63a726ffdc/image.png" alt="Google Business Intelligence Certificate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5e58be45-db67-4905-b601-f3ac0cfc3304" title="Google Digital Marketing & E-Commerce Certificate"><img src="https://images.credly.com/size/80x80/images/ba4a1bdc-91b3-4f5e-9f99-4e70afd42bfe/image.png" alt="Google Digital Marketing & E-Commerce Certificate" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/797ef1bd-5b07-4523-829f-2a6250ce7c48" title="Build Google Cloud Infrastructure for Azure Professionals Skill Badge"><img src="https://images.credly.com/size/80x80/images/b734b28a-683b-43f2-bb9d-2b952890e545/image.png" alt="Build Google Cloud Infrastructure for Azure Professionals Skill Badge" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/940738d0-dfc4-4808-9bb9-e3294a3f9083" title="Agents & Agentic AI Fundamentals"><img src="https://images.credly.com/size/80x80/images/528f2824-e38f-445a-affe-52ba63b9d164/blob" alt="Agents & Agentic AI Fundamentals" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
