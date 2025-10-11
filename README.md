@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/ba59fe34-40b5-47b1-83a6-9278f541af60" title="AWS Knowledge: Security Champion - Training Badge"><img src="https://images.credly.com/size/80x80/images/478cdcb9-9b92-4893-9c95-617ad0f28257/blob" alt="AWS Knowledge: Security Champion - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/55d66eb3-decd-4dcb-b3b7-7c34f9bc54c1" title="AWS Cloud Quest: Generative AI Practitioner - Training Badge"><img src="https://images.credly.com/size/80x80/images/15fa08e6-ca73-4fa3-94ed-c36f7f157313/blob" alt="AWS Cloud Quest: Generative AI Practitioner - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/7b0a12d8-90db-4541-b631-1f76cd7eaca8" title="AWS Partner: Agentic AI Essentials - Training Badge"><img src="https://images.credly.com/size/80x80/images/cb620644-88e4-4ee7-83a2-d33a6181e4b8/blob" alt="AWS Partner: Agentic AI Essentials - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4914cea5-f050-420d-9215-53fe4d6e2fbb" title="Agentic AI Deal Ready - Proficient"><img src="https://images.credly.com/size/80x80/images/5e2004e8-aaa1-4d73-8995-138519749bc6/blob" alt="Agentic AI Deal Ready - Proficient" width="80" height="80"></a>
@@ -63,6 +64,5 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/dfe1ff20-9923-4c1f-9465-c4b1ae985201" title="AWS Partner: Generative AI Essentials - Training Badge"><img src="https://images.credly.com/size/80x80/images/4b547104-5ce9-43d5-8708-a7abb4b0c7ec/blob" alt="AWS Partner: Generative AI Essentials - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/04b2a061-3103-48a6-b3ec-0fd3ddc9efde" title="AWS Cloud Quest: Cloud Practitioner - Training Badge"><img src="https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/b3439a24-f8bf-49bf-b717-57bfd899a54f" title="Google Cybersecurity Certificate"><img src="https://images.credly.com/size/80x80/images/50cc91fd-d223-4ef0-a512-ab251ba7e812/image.png" alt="Google Cybersecurity Certificate" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/8de0c410-5e08-4873-8af9-b658cb4550f6" title="Build Google Cloud Infrastructure for AWS Professionals Skill Badge"><img src="https://images.credly.com/size/80x80/images/7a2bc677-846d-4b0b-85a3-b56e0a0f9452/image.png" alt="Build Google Cloud Infrastructure for AWS Professionals Skill Badge" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
