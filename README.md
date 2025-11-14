@@ -55,15 +55,14 @@ A passionate cloud enthusiast and lifelong learner focusing on AWS, Google Cloud
 
 ## Skills
 - Cloud: AWS · Google Cloud · Azure  
-- Infrastructure as Code & Configuration Management: Terraform · CloudFormation · Pulumi · Ansible  
+- Infrastructure as Code & Configuration Management: Terraform · CloudFormation · Ansible  
 - Container & Orchestration: Docker · Kubernetes · Helm · Argo CD (GitOps)  
 - CI/CD & Automation: GitHub Actions · Jenkins · GitOps practices  
 - Observability & Monitoring: Prometheus · Grafana · Logging & Tracing (ELK / OpenTelemetry concepts)  
-- Other Tools: Vault · Istio / Service Mesh (fundamentals)  
+- Other Tools: Vault · Istio / Service Mesh   
 - Languages: Python · Bash · YAML · (familiar with Go for cloud-native tooling)  
 
-> Notes:
-> - I kept your core skills and added complementary tools & practices commonly used alongside cloud-native/DevOps work. If you'd like to remove or replace any of these, tell me which ones and I’ll update.
+
 
 ## GitHub Stats
 <p align="center">
@@ -73,19 +72,8 @@ A passionate cloud enthusiast and lifelong learner focusing on AWS, Google Cloud
 
 ---
 
-## Fun / GIF Stickers
-<p align="center">
-  <!-- Fun animated stickers - external GIFs -->
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" height="120" alt="coding gif" style="margin:8px" />
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="120" height="120" alt="robot gif" style="margin:8px" />
-  <img src="https://media.giphy.com/media/26gsgIY0t4xG4x0Lu/giphy.gif" width="120" height="120" alt="coffee gif" style="margin:8px" />
-</p>
 
----
 
 Made with ❤️ — Arnab Sen
 
-If you'd like, I can:
-- commit this README.md directly to a repository or create a branch + PR for you (share the repo link),
-- tweak the GIFs/badges styling or swap any added skills,
-- generate a compact version for your GitHub profile bio.
+
