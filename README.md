@@ -12,18 +12,8 @@
     </a>
   </p>
 
-  <!-- Skill badges using HTML so they render cleanly -->
-  <p align="center">
-    <a href="#" title="Cloud Computing">
-      <img src="https://img.shields.io/badge/Cloud%20Computing-Expert-4F46E5?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Computing" />
-    </a>
-    <a href="#" title="Cybersecurity">
-      <img src="https://img.shields.io/badge/Cybersecurity-Specialist-E114E5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Cybersecurity" />
-    </a>
-    <a href="#" title="Google Cloud">
-      <img src="https://img.shields.io/badge/Google%20Cloud-Enthusiast-FFCD00?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-    </a>
-  </p>
+  
+  
 
   <!-- Certification & platform badges -->
   <p align="center">
