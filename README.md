@@ -10,10 +10,13 @@
     <a href="https://www.linkedin.com/in/arnab-sen-19a6b1287/">
       <img src="https://img.shields.io/badge/LinkedIn-arnab--sen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="https://dev.to/arnabsen08">
+      <img src="https://img.shields.io/badge/Dev.to-@arnabsen08-0a0a0a?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+    </a>
+    <a href="https://g.dev/arnabs08">
+      <img src="https://img.shields.io/badge/Google_Developers-@arnabs08-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developers" />
+    </a>
   </p>
-
-  
-  
 
   <!-- Certification & platform badges -->
   <p align="center">
@@ -46,12 +49,21 @@ A passionate cloud enthusiast and lifelong learner focusing on AWS, Google Cloud
 - AWS Skill Builder: https://skillsprofile.skillbuilder.aws/user/arnabsen/certification-badges  
 - Salesforce Trailhead: https://www.salesforce.com/trailblazer/arsen39  
 - ServiceNow: https://learning.servicenow.com/lxp?id=nl_public&user=beanclarks9619f6  
-- Linux Foundation (OpenProfile): https://openprofile.dev/profile/arnab121
+- Linux Foundation (OpenProfile): https://openprofile.dev/profile/arnab121  
+- Dev.to: https://dev.to/arnabsen08  
+- Google Developer (g.dev): https://g.dev/arnabs08
 
 ## Skills
 - Cloud: AWS · Google Cloud · Azure  
-- Tools: Terraform · Docker · Kubernetes · GitHub Actions · Jenkins  
-- Languages: Python · Bash · YAML
+- Infrastructure as Code & Configuration Management: Terraform · CloudFormation · Pulumi · Ansible  
+- Container & Orchestration: Docker · Kubernetes · Helm · Argo CD (GitOps)  
+- CI/CD & Automation: GitHub Actions · Jenkins · GitOps practices  
+- Observability & Monitoring: Prometheus · Grafana · Logging & Tracing (ELK / OpenTelemetry concepts)  
+- Other Tools: Vault · Istio / Service Mesh (fundamentals)  
+- Languages: Python · Bash · YAML · (familiar with Go for cloud-native tooling)  
+
+> Notes:
+> - I kept your core skills and added complementary tools & practices commonly used alongside cloud-native/DevOps work. If you'd like to remove or replace any of these, tell me which ones and I’ll update.
 
 ## GitHub Stats
 <p align="center">
@@ -61,4 +73,19 @@ A passionate cloud enthusiast and lifelong learner focusing on AWS, Google Cloud
 
 ---
 
+## Fun / GIF Stickers
+<p align="center">
+  <!-- Fun animated stickers - external GIFs -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="120" height="120" alt="coding gif" style="margin:8px" />
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="120" height="120" alt="robot gif" style="margin:8px" />
+  <img src="https://media.giphy.com/media/26gsgIY0t4xG4x0Lu/giphy.gif" width="120" height="120" alt="coffee gif" style="margin:8px" />
+</p>
+
+---
+
 Made with ❤️ — Arnab Sen
+
+If you'd like, I can:
+- commit this README.md directly to a repository or create a branch + PR for you (share the repo link),
+- tweak the GIFs/badges styling or swap any added skills,
+- generate a compact version for your GitHub profile bio.
