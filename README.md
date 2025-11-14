@@ -37,6 +37,16 @@
     <a href="https://www.salesforce.com/trailblazer/arsen39"><img src="https://img.shields.io/badge/Salesforce-Trailhead-00A1E0?style=for-the-badge&logo=salesforce" alt="Salesforce Trailhead" /></a>
     <a href="https://github.com/ArnabSen08"><img src="https://img.shields.io/badge/GitHub-@ArnabSen08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
+
+  <!-- New platform badges: ServiceNow & Linux Foundation -->
+  <p align="center">
+    <a href="https://learning.servicenow.com/lxp?id=nl_public&user=beanclarks9619f6" title="ServiceNow Profile">
+      <img src="https://img.shields.io/badge/ServiceNow-Profile-00ACF0?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
+    </a>
+    <a href="https://openprofile.dev/profile/arnab121" title="Linux Foundation OpenProfile">
+      <img src="https://img.shields.io/badge/Linux_Foundation-Profile-0E6AA7?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Foundation" />
+    </a>
+  </p>
 </p>
 
 ---
@@ -44,12 +54,14 @@
 ## About Me
 A passionate cloud enthusiast and lifelong learner focusing on AWS, Google Cloud, Microsoft Azure, and platform integrations. I collect practical certifications and enjoy automating repetitive tasks and building reliable CI/CD pipelines.
 
-## Highlighted Certifications
+## Highlighted Certifications & Profiles
 - Credly: https://www.credly.com/users/arnab-sen121  
 - Microsoft Learn: https://learn.microsoft.com/en-us/users/arnabsen-9564/  
 - Google Cloud: https://www.cloudskillsboost.google/public_profiles/c7a6a779-65e2-4561-b73d-a06c1674c966  
 - AWS Skill Builder: https://skillsprofile.skillbuilder.aws/user/arnabsen/certification-badges  
-- Salesforce Trailhead: https://www.salesforce.com/trailblazer/arsen39
+- Salesforce Trailhead: https://www.salesforce.com/trailblazer/arsen39  
+- ServiceNow: https://learning.servicenow.com/lxp?id=nl_public&user=beanclarks9619f6  
+- Linux Foundation (OpenProfile): https://openprofile.dev/profile/arnab121
 
 ## Skills
 - Cloud: AWS · Google Cloud · Azure  
