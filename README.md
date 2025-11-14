@@ -3,13 +3,10 @@
   <img src="https://img.shields.io/badge/Arnab%20Sen-Portfolio-%23ff5f6d?style=for-the-badge&logo=github" alt="Arnab Sen" />
 
   <h1 align="center">Arnab Sen</h1>
-  <h3 align="center">Cloud | DevOps | Certifications</h3>
+  <h3 align="center">Cloud Computing | DevOps | Artificial Intelligence</h3>
 
-  <!-- Contact badges -->
+  <!-- Contact badges (email removed) -->
   <p align="center">
-    <a href="mailto:arnabs0123@gmail.com">
-      <img src="https://img.shields.io/badge/Email-arnabs0123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
     <a href="https://www.linkedin.com/in/arnab-sen-19a6b1287/">
       <img src="https://img.shields.io/badge/LinkedIn-arnab--sen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
