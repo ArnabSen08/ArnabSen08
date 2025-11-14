@@ -10,19 +10,22 @@
     <a href="mailto:arnabs0123@gmail.com">
       <img src="https://img.shields.io/badge/Email-arnabs0123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="tel:+917903283477">
-      <img src="https://img.shields.io/badge/Phone-%2B91%207903283477-0A66C2?style=for-the-badge&logo=googlevoice&logoColor=white" alt="Phone" />
-    </a>
     <a href="https://www.linkedin.com/in/arnab-sen-19a6b1287/">
       <img src="https://img.shields.io/badge/LinkedIn-arnab--sen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
-  <!-- New skill/badge highlights requested -->
+  <!-- Skill badges using HTML so they render cleanly -->
   <p align="center">
-    [![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-Expert-4F46E5?style=for-the-badge&logo=cloud&logoColor=white)](#)
-    [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Specialist-E114E5?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-    [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Enthusiast-FFCD00?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
+    <a href="#" title="Cloud Computing">
+      <img src="https://img.shields.io/badge/Cloud%20Computing-Expert-4F46E5?style=for-the-badge&logo=cloud&logoColor=white" alt="Cloud Computing" />
+    </a>
+    <a href="#" title="Cybersecurity">
+      <img src="https://img.shields.io/badge/Cybersecurity-Specialist-E114E5?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Cybersecurity" />
+    </a>
+    <a href="#" title="Google Cloud">
+      <img src="https://img.shields.io/badge/Google%20Cloud-Enthusiast-FFCD00?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+    </a>
   </p>
 
   <!-- Certification & platform badges -->
