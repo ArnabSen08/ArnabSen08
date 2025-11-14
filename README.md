@@ -33,10 +33,6 @@
     <a href="https://skillsprofile.skillbuilder.aws/user/arnabsen/certification-badges"><img src="https://img.shields.io/badge/AWS_Skill_Builder-Badges-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Skill Builder" /></a>
     <a href="https://www.salesforce.com/trailblazer/arsen39"><img src="https://img.shields.io/badge/Salesforce-Trailhead-00A1E0?style=for-the-badge&logo=salesforce" alt="Salesforce Trailhead" /></a>
     <a href="https://github.com/ArnabSen08"><img src="https://img.shields.io/badge/GitHub-@ArnabSen08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-
-  <!-- New platform badges: ServiceNow & Linux Foundation -->
-  <p align="center">
     <a href="https://learning.servicenow.com/lxp?id=nl_public&user=beanclarks9619f6" title="ServiceNow Profile">
       <img src="https://img.shields.io/badge/ServiceNow-Profile-00ACF0?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
     </a>
@@ -44,6 +40,8 @@
       <img src="https://img.shields.io/badge/Linux_Foundation-Profile-0E6AA7?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Foundation" />
     </a>
   </p>
+
+  
 </p>
 
 ---
