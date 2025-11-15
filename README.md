@@ -19,41 +19,22 @@
   </a>
 </p>
 
-<!-- Certification & platform badges -->
-<p align="center">
-  <a href="https://www.credly.com/users/arnab-sen121"><img src="https://img.shields.io/badge/Credly-Certificates-6f42c1?style=for-the-badge" alt="Credly" /></a>
-  <a href="https://learn.microsoft.com/en-us/users/arnabsen-9564/"><img src="https://img.shields.io/badge/Microsoft_Learn-Badges-0078D4?style=for-the-badge&logo=microsoft" alt="Microsoft Learn" /></a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/c7a6a779-65e2-4561-b73d-a06c1674c966"><img src="https://img.shields.io/badge/Google_Cloud-Skills-4285F4?style=for-the-badge&logo=googlecloud" alt="Google Cloud" /></a>
-  <a href="https://skillsprofile.skillbuilder.aws/user/arnabsen/certification-badges"><img src="https://img.shields.io/badge/AWS_Skill_Builder-Badges-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Skill Builder" /></a>
-  <a href="https://www.salesforce.com/trailblazer/arsen39"><img src="https://img.shields.io/badge/Salesforce-Trailhead-00A1E0?style=for-the-badge&logo=salesforce" alt="Salesforce Trailhead" /></a>
-  <a href="https://github.com/ArnabSen08"><img src="https://img.shields.io/badge/GitHub-@ArnabSen08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://learning.servicenow.com/lxp?id=nl_public&user=beanclarks9619f6" title="ServiceNow Profile">
-    <img src="https://img.shields.io/badge/ServiceNow-Profile-00ACF0?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
-  </a>
-  <a href="https://openprofile.dev/profile/arnab121" title="Linux Foundation OpenProfile">
-    <img src="https://img.shields.io/badge/Linux_Foundation-Profile-0E6AA7?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Foundation" />
-  </a>
-  <a href="https://www.kaggle.com/arnabsen121"><img src="https://img.shields.io/badge/Kaggle-@arnabsen121-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://www.coursera.org/user/0b5ad0898a297f0944f198412a1ec960"><img src="https://img.shields.io/badge/Coursera-Profile-2A73CC?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" /></a>
-  <a href="https://learn.deeplearning.ai/u/01JFSCRYE48JJMA10JXHHCFWTC"><img src="https://img.shields.io/badge/DeepLearning.ai-Profile-0A6ECB?style=for-the-badge&logo=deeplearning.ai&logoColor=white" alt="DeepLearning.ai" /></a>
+---
 
-  <!-- Added profiles (GeeksforGeeks badge fixed: removed logo parameter which caused 404) -->
-  <a href="https://www.codecademy.com/users/webNinja86709/achievements">
-    <img src="https://img.shields.io/badge/Codecademy-webNinja86709-1f425f?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy" />
-  </a>
-  <a href="https://www.freecodecamp.org/arnab121">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-arnab121-006400?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/arnab%20sen/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-arnab-sen-2E7D32?style=for-the-badge" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://leetcode.com/arnabsky/">
-    <img src="https://img.shields.io/badge/LeetCode-arnabsky-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.credential.net/profile/arnabsen745188/wallet">
-    <img src="https://img.shields.io/badge/CredentialNet-Wallet-34495e?style=for-the-badge" alt="Credential.Net" />
-  </a>
-</p>
+## Certifications & Platforms
+
+| | | | |
+|---:|:---:|:---:|:---|
+| <a href="https://www.credly.com/users/arnab-sen121"><img src="https://img.shields.io/badge/Credly-Certificates-6f42c1?style=for-the-badge" alt="Credly" /></a> | <a href="https://learn.microsoft.com/en-us/users/arnabsen-9564/"><img src="https://img.shields.io/badge/Microsoft_Learn-Badges-0078D4?style=for-the-badge&logo=microsoft" alt="Microsoft Learn" /></a> | <a href="https://www.cloudskillsboost.google/public_profiles/c7a6a779-65e2-4561-b73d-a06c1674c966"><img src="https://img.shields.io/badge/Google_Cloud-Skills-4285F4?style=for-the-badge&logo=googlecloud" alt="Google Cloud" /></a> | <a href="https://skillsprofile.skillbuilder.aws/user/arnabsen/certification-badges"><img src="https://img.shields.io/badge/AWS_Skill_Builder-Badges-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Skill Builder" /></a> |
+| <a href="https://www.salesforce.com/trailblazer/arsen39"><img src="https://img.shields.io/badge/Salesforce-Trailhead-00A1E0?style=for-the-badge&logo=salesforce" alt="Salesforce Trailhead" /></a> | <a href="https://github.com/ArnabSen08"><img src="https://img.shields.io/badge/GitHub-@ArnabSen08-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> | <a href="https://learning.servicenow.com/lxp?id=nl_public&user=beanclarks9619f6" title="ServiceNow Profile"><img src="https://img.shields.io/badge/ServiceNow-Profile-00ACF0?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" /></a> | <a href="https://openprofile.dev/profile/arnab121" title="Linux Foundation OpenProfile"><img src="https://img.shields.io/badge/Linux_Foundation-Profile-0E6AA7?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Foundation" /></a> |
+
+---
+
+## Learning Profiles & Coding Sites
+
+| Codecademy | FreeCodeCamp | GeeksforGeeks | LeetCode |
+|:---:|:---:|:---:|:---:|
+| <a href="https://www.codecademy.com/users/webNinja86709/achievements"><img src="https://img.shields.io/badge/Codecademy-webNinja86709-1f425f?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy" /></a> | <a href="https://www.freecodecamp.org/arnab121"><img src="https://img.shields.io/badge/FreeCodeCamp-arnab121-006400?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" /></a> | <a href="https://www.geeksforgeeks.org/user/arnab%20sen/"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2E7D32?style=for-the-badge" alt="GeeksforGeeks" /></a> | <a href="https://leetcode.com/arnabsky/"><img src="https://img.shields.io/badge/LeetCode-arnabsky-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a> |
 
 ---
 
