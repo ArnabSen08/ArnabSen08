@@ -53,6 +53,8 @@ A passionate cloud enthusiast and lifelong learner focusing on AWS, Google Cloud
 - Salesforce Trailhead: https://www.salesforce.com/trailblazer/arsen39  
 - ServiceNow: https://learning.servicenow.com/lxp?id=nl_public&user=beanclarks9619f6  
 - Linux Foundation (OpenProfile): https://openprofile.dev/profile/arnab121  
+- Kaggle: https://www.kaggle.com/arnabsen121  
+- Coursera: https://www.coursera.org/user/0b5ad0898a297f0944f198412a1ec960  
 - Dev.to: https://dev.to/arnabsen08  
 - Google Developer (g.dev): https://g.dev/arnabs08
 
