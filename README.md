@@ -37,7 +37,7 @@
   <a href="https://www.coursera.org/user/0b5ad0898a297f0944f198412a1ec960"><img src="https://img.shields.io/badge/Coursera-Profile-2A73CC?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" /></a>
   <a href="https://learn.deeplearning.ai/u/01JFSCRYE48JJMA10JXHHCFWTC"><img src="https://img.shields.io/badge/DeepLearning.ai-Profile-0A6ECB?style=for-the-badge&logo=deeplearning.ai&logoColor=white" alt="DeepLearning.ai" /></a>
 
-  <!-- Added profiles (labels sanitized so shields.io renders reliably) -->
+  <!-- Added profiles (GeeksforGeeks badge fixed: removed logo parameter which caused 404) -->
   <a href="https://www.codecademy.com/users/webNinja86709/achievements">
     <img src="https://img.shields.io/badge/Codecademy-webNinja86709-1f425f?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy" />
   </a>
@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/badge/FreeCodeCamp-arnab121-006400?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/arnab%20sen/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-arnab-sen-2E7D32?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-arnab-sen-2E7D32?style=for-the-badge" alt="GeeksforGeeks" />
   </a>
   <a href="https://leetcode.com/arnabsky/">
     <img src="https://img.shields.io/badge/LeetCode-arnabsky-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
