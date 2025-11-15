@@ -32,6 +32,9 @@
     <a href="https://openprofile.dev/profile/arnab121" title="Linux Foundation OpenProfile">
       <img src="https://img.shields.io/badge/Linux_Foundation-Profile-0E6AA7?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Foundation" />
     </a>
+    <a href="https://www.kaggle.com/arnabsen121"><img src="https://img.shields.io/badge/Kaggle-@arnabsen121-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+    <a href="https://www.coursera.org/user/0b5ad0898a297f0944f198412a1ec960"><img src="https://img.shields.io/badge/Coursera-Profile-2A73CC?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" /></a>
+    <a href="https://learn.deeplearning.ai/u/01JFSCRYE48JJMA10JXHHCFWTC"><img src="https://img.shields.io/badge/DeepLearning.ai-Profile-0A6ECB?style=for-the-badge&logo=deeplearning.ai&logoColor=white" alt="DeepLearning.ai" /></a>
   </p>
 
   
@@ -75,5 +78,3 @@ A passionate cloud enthusiast and lifelong learner focusing on AWS, Google Cloud
 
 
 Made with ❤️ — Arnab Sen
-
-
