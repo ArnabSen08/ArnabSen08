@@ -35,9 +35,25 @@
     <a href="https://www.kaggle.com/arnabsen121"><img src="https://img.shields.io/badge/Kaggle-@arnabsen121-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
     <a href="https://www.coursera.org/user/0b5ad0898a297f0944f198412a1ec960"><img src="https://img.shields.io/badge/Coursera-Profile-2A73CC?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" /></a>
     <a href="https://learn.deeplearning.ai/u/01JFSCRYE48JJMA10JXHHCFWTC"><img src="https://img.shields.io/badge/DeepLearning.ai-Profile-0A6ECB?style=for-the-badge&logo=deeplearning.ai&logoColor=white" alt="DeepLearning.ai" /></a>
+
+    <!-- Added profiles -->
+    <a href="https://www.codecademy.com/users/webNinja86709/achievements">
+      <img src="https://img.shields.io/badge/Codecademy-@webNinja86709-1f425f?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy" />
+    </a>
+    <a href="https://www.freecodecamp.org/arnab121">
+      <img src="https://img.shields.io/badge/FreeCodeCamp-@arnab121-006400?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" />
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/arnab%20sen/">
+      <img src="https://img.shields.io/badge/GeeksForGeeks-arnab%20sen-2E7D32?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks" />
+    </a>
+    <a href="https://leetcode.com/arnabsky/">
+      <img src="https://img.shields.io/badge/LeetCode-@arnabsky-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    <a href="https://www.credential.net/profile/arnabsen745188/wallet">
+      <img src="https://img.shields.io/badge/Credential.Net-Wallet-34495e?style=for-the-badge" alt="Credential.Net" />
+    </a>
   </p>
 
-  
 </p>
 
 ---
@@ -57,6 +73,12 @@ A passionate cloud enthusiast and lifelong learner focusing on AWS, Google Cloud
 - Coursera: https://www.coursera.org/user/0b5ad0898a297f0944f198412a1ec960  
 - Dev.to: https://dev.to/arnabsen08  
 - Google Developer (g.dev): https://g.dev/arnabs08
+
+- Codecademy: https://www.codecademy.com/users/webNinja86709/achievements  
+- FreeCodeCamp: https://www.freecodecamp.org/arnab121  
+- GeeksForGeeks: https://www.geeksforgeeks.org/user/arnab%20sen/  
+- LeetCode: https://leetcode.com/arnabsky/  
+- Credential.Net (Wallet/Profile): https://www.credential.net/profile/arnabsen745188/wallet
 
 ## Skills
 - Cloud: AWS · Google Cloud · Azure  
@@ -80,3 +102,4 @@ A passionate cloud enthusiast and lifelong learner focusing on AWS, Google Cloud
 
 
 Made with ❤️ — Arnab Sen
+```
