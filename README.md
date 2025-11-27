@@ -1,7 +1,15 @@
 <p align="center">
-  <!-- Name badge -->
-  <img src="https://img.shields.io/badge/Arnab%20Sen-Portfolio-%23ff5f6d?style=for-the-badge&logo=github" alt="Arnab Sen" />
+  <!-- Portfolio badge -->
+  <a href="https://arnab-cloud-core.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/Arnab%20Sen-Portfolio-%23ff5f6d?style=for-the-badge&logo=github" alt="Arnab Sen Portfolio" />
+  </a>
+  
+  <!-- Website badge -->
+  <a href="https://arnab1-website-wxm.caffeine.xyz/" target="_blank">
+    <img src="https://img.shields.io/badge/Arnab%20Sen-Website-%2300c4cc?style=for-the-badge&logo=google-chrome" alt="Arnab Sen Website" />
+  </a>
 </p>
+
 
 <h1 align="center">Arnab Sen</h1>
 <h3 align="center">Cloud Computing | DevOps | Artificial Intelligence</h3>
