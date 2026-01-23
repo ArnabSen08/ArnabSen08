@@ -96,6 +96,15 @@ I'm an **AI-first engineer** who builds intelligent systems that think, learn, a
 
 ## 🏆 Featured Projects
 
+### 🤖 Production-Ready Multi-Agent AI System
+**Enterprise-Grade AI System for Ready Tensor Certification** - Complete production system with 4 specialized agents (Coordinator, Research, Content, Validation), 90%+ test coverage, comprehensive security, real-time monitoring, and professional documentation.
+
+**🔗 [Live Demo](https://arnabsen08.github.io/agentic-ai-production-system/) | [Repository](https://github.com/ArnabSen08/agentic-ai-production-system)**
+
+**Tech Stack:** Python, Streamlit, OpenAI GPT-4, Pydantic, Pytest, Docker, GitHub Actions  
+**Features:** Multi-agent coordination, Enterprise security, Real-time monitoring, 90%+ test pass rate, Production deployment ready
+
+
 ### 🤖 [Bharat AI Hub](https://github.com/ArnabSen08/bharat-ai-hub)
 **Unified AI Platform for Social Impact** - Multi-agent AI system with RAG capabilities
 - Built with LangChain, OpenAI, and FastAPI
