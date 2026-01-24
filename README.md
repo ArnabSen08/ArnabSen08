@@ -97,7 +97,7 @@ I'm an **AI-first engineer** who builds intelligent systems that think, learn, a
 ## 🏆 Featured Projects
 
 ###  Ready Tensor - RAG-Powered Certification System
-**Retrieval-Augmented Generation System for AI Certification** - Complete RAG solution with semantic search, multi-document processing, and intelligent Q&A.
+**Retrieval-Augmented Generation System for AI Certification** - Complete RAG solution with semantic search, multi-document processing, intelligent Q&A, and professional demo videos for comprehensive learning.
 ** [Live Demo](https://arnabsen08.github.io/ready-tensor/) | [Repository](https://github.com/ArnabSen08/ready-tensor)**
 **Tech Stack:** Python, LangChain, FAISS, OpenAI GPT, Remotion (Videos), GitHub Pages
 **Features:** RAG with FAISS vector database  Document processing with LangChain  OpenAI GPT integration  Professional demo videos  Comprehensive documentation  GitHub Pages deployment
@@ -187,4 +187,5 @@ I'm always excited to collaborate on AI projects, discuss emerging technologies,
 <p align="center">
   <i>"The future belongs to those who understand that AI is not just a tool, but a collaborator in creating impossible things."</i>
 </p>
+
 
