@@ -169,7 +169,7 @@ I'm an **AI-first engineer** who builds intelligent systems that think, learn, a
 I'm always excited to collaborate on AI projects, discuss emerging technologies, or help solve complex technical challenges. Whether you're building the next AI unicorn or just getting started with machine learning, let's connect!
 
 <p align="center">
-  <a href="mailto:arnabsen.dev@gmail.com">
+  <a href="mailto:beanclarksum@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://twitter.com/ArnabSen08" target="_blank">
