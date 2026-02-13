@@ -94,7 +94,6 @@ I'm an **AI-first engineer** who builds intelligent systems that think, learn, a
 
 ---
 
-# Copy-Paste Ready: Featured Projects Section
 
 ## 🏆 Featured Projects
 
