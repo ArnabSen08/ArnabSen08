@@ -99,7 +99,7 @@ I'm an **AI-first engineer** who builds intelligent systems that think, learn, a
 ### 🤖  Ready Tensor - RAG-Powered Certification System
 **Retrieval-Augmented Generation System for AI Certification** - Complete RAG solution with semantic search, multi-document processing, intelligent Q&A, and professional demo videos for comprehensive learning.
 
-**🔗 [Live Demo](https://arnabsen08.github.io/ready-tensor/) | [Repository](https://github.com/ArnabSen08/ready-tensor)**
+**🔗 [Live Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/ready-tensor/) | [Repository](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/ready-tensor)**
 
 **Tech Stack:** Python, LangChain, FAISS, OpenAI GPT, Remotion (Videos), GitHub Pages
 **Features:** RAG with FAISS vector database  Document processing with LangChain  OpenAI GPT integration  Professional demo videos  Comprehensive documentation  GitHub Pages deployment
@@ -107,31 +107,31 @@ I'm an **AI-first engineer** who builds intelligent systems that think, learn, a
 ### 🤖 Production-Ready Multi-Agent AI System
 **Enterprise-Grade AI System for Ready Tensor Certification** - Complete production system with 4 specialized agents (Coordinator, Research, Content, Validation), 90%+ test coverage, comprehensive security, real-time monitoring, and professional documentation.
 
-**🔗 [Live Demo](https://arnabsen08.github.io/agentic-ai-production-system/) | [Repository](https://github.com/ArnabSen08/agentic-ai-production-system)**
+**🔗 [Live Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/agentic-ai-production-system/) | [Repository](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/agentic-ai-production-system)**
 
 **Tech Stack:** Python, Streamlit, OpenAI GPT-4, Pydantic, Pytest, Docker, GitHub Actions  
 **Features:** Multi-agent coordination, Enterprise security, Real-time monitoring, 90%+ test pass rate, Production deployment ready
 
 
-### 🤖 [Bharat AI Hub](https://github.com/ArnabSen08/bharat-ai-hub)
+### 🤖 [Bharat AI Hub](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/bharat-ai-hub)
 **Unified AI Platform for Social Impact** - Multi-agent AI system with RAG capabilities
 - Built with LangChain, OpenAI, and FastAPI
 - Features intelligent document processing and conversational AI
 - Deployed on cloud infrastructure with auto-scaling
 
-### 🎰 [Blockchain Lottery DApp](https://github.com/ArnabSen08/blockchain-lottery-dapp)
+### 🎰 [Blockchain Lottery DApp](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/blockchain-lottery-dapp)
 **Decentralized Lottery Application** - Full-stack Web3 application
 - Smart contracts in Solidity with Hardhat framework
 - React frontend with Web3 integration
 - Deployed on Ethereum testnet
 
-### 🍋 [Little Lemon Restaurant](https://github.com/ArnabSen08/little-lemon-restaurant)
+### 🍋 [Little Lemon Restaurant](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/little-lemon-restaurant)
 **Full-Stack Restaurant Management** - Django web app with database analytics
 - Complete restaurant booking and menu system
 - MySQL database with stored procedures
 - Tableau dashboards for business intelligence
 
-### ✈️ [Elastic Aviation RAG](https://github.com/ArnabSen08/elastic-aviation-rag-blog)
+### ✈️ [Elastic Aviation RAG](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/elastic-aviation-rag-blog)
 **AI Assistant for Aviation Maintenance** - RAG-powered knowledge system
 - Elasticsearch integration for semantic search
 - Custom AI models for aviation domain
