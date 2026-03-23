@@ -25,39 +25,38 @@ I'm an **AI-first engineer** who builds intelligent systems that think, learn, a
 
 🎯 **Current Focus:** Building AI agents, RAG systems, and intelligent automation platforms  
 🌟 **Mission:** Democratizing AI through accessible, practical applications  
-⚡ **Superpower:** Turning complex AI concepts into production-ready solutions  
+⚡ **Superpower:** Turning complex AI concepts into production-ready solutions
 
 ---
 
 ## 🤖 AI & Machine Learning Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
 </p>
 
-- **AI Frameworks:** LangChain · LlamaIndex · Hugging Face · OpenAI API · Anthropic Claude
-- **Vector Databases:** Pinecone · Weaviate · Chroma · FAISS
-- **ML Platforms:** Azure OpenAI · AWS Bedrock · Google Vertex AI · Replicate
+- **AI Frameworks:** LangChain · LlamaIndex · LangGraph · Hugging Face · OpenAI API · Anthropic Claude
+- **Vector Databases:** Pinecone · Weaviate · Chroma · FAISS · Elasticsearch
+- **ML Platforms:** Azure OpenAI · AWS Bedrock · Google Vertex AI · NVIDIA NIM
 - **AI Tools:** Cursor · GitHub Copilot · Kiro · v0.dev · Bolt.new
-- **RAG & Agents:** Multi-agent systems · Knowledge graphs · Semantic search
+- **RAG & Agents:** Multi-agent systems · Knowledge graphs · Semantic search · NemoClaw sandboxes
 
 ## 🛠️ Modern Development Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 - **Languages:** Python · TypeScript · JavaScript · Solidity · Go
-- **AI-Assisted Coding:** Cursor IDE · GitHub Copilot · Kiro · Codeium
 - **Frontend:** React · Next.js · Vite · Tailwind CSS · Shadcn/ui
 - **Backend:** FastAPI · Django · Node.js · Supabase · Firebase
 - **Blockchain:** Ethereum · Hardhat · Web3.js · Ethers.js · MetaMask
@@ -65,111 +64,171 @@ I'm an **AI-first engineer** who builds intelligent systems that think, learn, a
 ## ☁️ Cloud & Infrastructure
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
 - **Cloud Platforms:** AWS · Azure · Google Cloud · Vercel · Railway
-- **AI Services:** OpenAI · Anthropic · Cohere · Stability AI
 - **Containers:** Docker · Kubernetes · Podman
 - **IaC:** Terraform · Pulumi · AWS CDK
 - **CI/CD:** GitHub Actions · GitLab CI · Azure DevOps
 
-## 📊 Data & Analytics
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-</p>
-
-- **Databases:** PostgreSQL · MongoDB · Redis · Supabase
-- **Analytics:** Tableau · Power BI · Jupyter · Pandas · NumPy
-- **Real-time:** WebSockets · Server-Sent Events · Pusher
-
 ---
-
 
 ## 🏆 Featured Projects
 
-### 🤖 Ready Tensor - RAG-Powered Certification System
-**Retrieval-Augmented Generation System for AI Certification** - Complete RAG solution with semantic search, multi-document processing, intelligent Q&A, and professional demo videos for comprehensive learning.
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ROW 1 — Flagship standalone repos -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-**🔗 [Live Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/ready-tensor/) | [Repository](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/ready-tensor)**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack:** Python · LangChain · FAISS · OpenAI GPT · Remotion (Videos) · GitHub Pages  
-**Features:** RAG with FAISS vector database · Document processing with LangChain · OpenAI GPT integration · Professional demo videos · Comprehensive documentation · GitHub Pages deployment
+### 🛰️ NemoClaw Aerospace AI Suite
+**4 sandboxed AI agents for real-time space intelligence**, built on NVIDIA NemoClaw + Nemotron-120B. Covers launch tracking, orbital conjunction analysis, disaster response, and spacecraft anomaly detection — all using free public APIs.
 
-### 🤖 Production-Ready Multi-Agent AI System
-**Enterprise-Grade AI System for Ready Tensor Certification** - Complete production system with 4 specialized agents (Coordinator, Research, Content, Validation), 90%+ test coverage, comprehensive security, real-time monitoring, and professional documentation.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_NemoClaw-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![NASA](https://img.shields.io/badge/NASA_APIs-0B3D91?style=flat-square&logo=nasa&logoColor=white)
+![SpaceX](https://img.shields.io/badge/SpaceX_API-000000?style=flat-square&logo=spacex&logoColor=white)
 
-**🔗 [Live Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/agentic-ai-production-system/) | [Repository](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/agentic-ai-production-system)**
+**Agents:** Launch Intel · Satellite Conjunction · Disaster Response · Flight Anomaly  
+**[🔗 Live Demo](https://arnabsen08.github.io/nemoclaw-aerospace/) · [📦 Repo](https://github.com/ArnabSen08/nemoclaw-aerospace)**
 
-**Tech Stack:** Python · Streamlit · OpenAI GPT-4 · Pydantic · Pytest · Docker · GitHub Actions  
-**Features:** Multi-agent coordination · Enterprise security · Real-time monitoring · 90%+ test pass rate · Production deployment ready
+</td>
+<td width="50%" valign="top">
 
-### 🤖 Multi-Agent Publication Assistant
-**AI-Powered GitHub Repository Analysis & Enhancement** - LangGraph-orchestrated multi-agent system with 4 specialized agents that analyze repositories and provide actionable recommendations for improving documentation, metadata, and presentation.
+### 🤖 AI Resume Tailor
+**AI-powered resume optimization tool** that scrapes job descriptions from the web, analyzes skill gaps, and rewrites your resume to match — with one-click PDF export.
 
-**🔗 [Repository](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/publication-assistant) | [Live Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/publication-assistant/)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/Web_Scraping-FF6B35?style=flat-square&logo=python&logoColor=white)
 
-**Tech Stack:** Python · LangGraph · OpenAI · GitHub API · Web Search API  
-**Features:** 4 specialized agents (Analyzer, Metadata, Content, Reviewer) · GitHub API integration · Automated repository analysis · Content improvement suggestions · Ready Tensor certification project
+**Features:** Job scraping · AI rewriting · PDF export · Skill gap analysis  
+**[📦 Repo](https://github.com/ArnabSen08/ai-resume-tailor)**
 
-### 🌐 Bharat AI Hub
-**Unified AI Platform for Social Impact** - Multi-agent AI system with RAG capabilities designed for social impact initiatives across healthcare, education, agriculture, and rural development.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**🔗 [Repository](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/bharat-ai-hub) | [Live Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/bharat-ai-hub/)**
+### ☁️ Cloud Skills Portfolio
+**Interactive multi-cloud dashboard** showcasing real AWS, GCP, and Azure project work — with live architecture diagrams, cost breakdowns, and deployment walkthroughs.
 
-**Tech Stack:** LangChain · OpenAI · FastAPI · React · AWS  
-**Features:** Intelligent document processing · Conversational AI · Cloud infrastructure with auto-scaling · Multi-domain support
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-### 📊 Data Weaver Dashboard
-**Weather vs Stock Market Correlation Analysis** - Interactive dashboard exploring fascinating correlations between weather patterns and stock market performance using real-time data from multiple APIs.
+**Coverage:** AWS · GCP · Azure · Architecture diagrams · Cost analysis  
+**[🔗 Live Demo](https://arnabsen08.github.io/cloud-skills-portfolio/) · [📦 Repo](https://github.com/ArnabSen08/cloud-skills-portfolio)**
 
-**🔗 [Repository](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/data-weaver-dashboard) | [Live Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/data-weaver-dashboard/)**
+</td>
+<td width="50%" valign="top">
 
-**Tech Stack:** React.js · Node.js · Chart.js · OpenWeatherMap API · Alpha Vantage API · Tailwind CSS  
-**Features:** Real-time weather data · Stock market tracking · Interactive correlation charts · Historical analysis · Data export · Built with Kiro AI
+### 🧠 Production Multi-Agent AI System
+**Enterprise-grade agentic AI** with 4 specialized agents (Coordinator, Research, Content, Validation), 90%+ test coverage, real-time monitoring, and full Docker deployment — built for the IndiaAI Governance Challenge.
 
-### 🏆 The Referee
-**Smart Comparison & Decision-Making Tool** - Intelligent assistant that analyzes trade-offs between different options, helping you make informed decisions by comparing APIs, cloud services, and tech stacks.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
 
-**🔗 [Repository](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/the-referee) | [Live Demo](https://arnabsen08.github.io/the-referee/)**
+**Features:** Multi-agent coordination · 90%+ tests · Enterprise security · CI/CD  
+**[🔗 Live Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/agentic-ai-production-system/) · [📦 Repo](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/agentic-ai-production-system)**
 
-**Tech Stack:** Node.js · Express · React · AI-powered analysis  
-**Features:** API comparison · Cloud service analysis · Tech stack recommendations · Interactive decision matrix · Constraint-based filtering
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ROW 2 — Domain spotlight cards -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📡 RAG Certification System
+**LangChain + FAISS** semantic search over AI certification docs — multi-document Q&A with professional demo videos.
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+**[🔗 Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/ready-tensor/) · [📦 Code](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/ready-tensor)**
+
+</td>
+<td width="33%" valign="top">
 
 ### 🎰 Blockchain Lottery DApp
-**Decentralized Lottery Application** - Full-stack Web3 application with smart contracts, demonstrating blockchain development and decentralized application architecture.
+**Full-stack Web3 app** — Solidity smart contracts, React frontend, MetaMask integration, deployed on Ethereum testnet.
 
-**🔗 [Repository](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/blockchain-lottery-dapp) | [Live Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/blockchain-lottery-dapp/)**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
 
-**Tech Stack:** Solidity · Hardhat · React · Web3.js · Ethers.js · MetaMask  
-**Features:** Smart contracts · React frontend with Web3 integration · Deployed on Ethereum testnet · Complete DApp architecture
+**[🔗 Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/blockchain-lottery-dapp/) · [📦 Code](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/blockchain-lottery-dapp)**
+
+</td>
+<td width="33%" valign="top">
 
 ### ✈️ Elastic Aviation RAG
-**AI Assistant for Aviation Maintenance** - RAG-powered knowledge system providing intelligent maintenance recommendations using Elasticsearch for semantic search and custom AI models.
+**AI maintenance assistant** using Elasticsearch semantic search + LangChain for real-time aviation knowledge retrieval.
 
-**🔗 [Repository](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/elastic-aviation-rag-blog) | [Live Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/elastic-aviation-rag-blog/)**
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Tech Stack:** Python · Elasticsearch · LangChain · Custom AI Models  
-**Features:** Elasticsearch semantic search · Aviation domain AI models · Real-time maintenance recommendations · RAG architecture
+**[🔗 Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/elastic-aviation-rag-blog/) · [📦 Code](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/elastic-aviation-rag-blog)**
 
-### 🍋 Little Lemon Restaurant
-**Full-Stack Restaurant Management System** - Comprehensive Django web application with database analytics, booking system, and business intelligence dashboards.
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
-**🔗 [Repository](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/little-lemon-restaurant) | [Live Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/little-lemon-restaurant/)**
+### 🌐 Bharat AI Hub
+**Social-impact multi-agent platform** for healthcare, education, agriculture, and rural development — RAG + FastAPI + React.
 
-**Tech Stack:** Django · MySQL · Tableau · Python  
-**Features:** Complete booking and menu system · MySQL with stored procedures · Tableau dashboards · Business intelligence analytics
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-**📦 View All Projects:** [Complete Portfolio](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects) | 15+ Projects Available
+**[🔗 Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/bharat-ai-hub/) · [📦 Code](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/bharat-ai-hub)**
+
+</td>
+<td width="33%" valign="top">
+
+### 📊 Data Weaver Dashboard
+**Weather × Stock market correlation** — real-time Chart.js dashboard pulling OpenWeatherMap + Alpha Vantage APIs with historical analysis.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+**[🔗 Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/data-weaver-dashboard/) · [📦 Code](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/data-weaver-dashboard)**
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 LangGraph Publication Assistant
+**4-agent GitHub repo analyzer** — LangGraph-orchestrated pipeline that reads repos and generates documentation, metadata, and presentation improvements.
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)
+
+**[🔗 Demo](https://arnabsen08.github.io/IndiaAI-Governance-Challenge/projects/publication-assistant/) · [📦 Code](https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects/publication-assistant)**
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/ArnabSen08/IndiaAI-Governance-Challenge/tree/master/projects">
+    <img src="https://img.shields.io/badge/View_All_17+_Projects-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -223,5 +282,3 @@ I'm always excited to collaborate on AI projects, discuss emerging technologies,
 <p align="center">
   <i>"The future belongs to those who understand that AI is not just a tool, but a collaborator in creating impossible things."</i>
 </p>
-
-
