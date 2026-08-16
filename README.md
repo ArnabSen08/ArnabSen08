@@ -1,9 +1,6 @@
 <p align="center">
-  <a href="https://arnab-cloud-core.lovable.app" target="_blank">
+  <a href="https://arnab-sen-portfolio-ai.lovable.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-AI%20Powered-%23ff5f6d?style=for-the-badge&logo=github" alt="Portfolio" />
-  </a>
-  <a href="https://arnab-sen-portfolio-hps.caffeine.xyz/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Live-%2300c4cc?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/arnab-sen-19a6b1287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
